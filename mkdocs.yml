@@ -1,0 +1,8 @@
+site_name: docs-template
+site_description: Templated Docs app
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
